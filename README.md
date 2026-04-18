@@ -1,10 +1,10 @@
-**📚 CampusShare**
+# 📚 CampusShare
 
-CampusShare is a full-stack web application designed to streamline the sharing and management of campus resources through secure user authentication and role-based administration.
+**CampusShare** is a full-stack web application designed to streamline the sharing and management of campus resources through secure user authentication and role-based administration.
 
+---
 
-
- 🚀 Features
+## 🚀 Features
 
 * 🔐 User Authentication (Login & Register)
 * 🛠️ Admin Dashboard
@@ -12,6 +12,7 @@ CampusShare is a full-stack web application designed to streamline the sharing a
 * 📊 User Dashboard
 * 🌐 Full-stack Architecture (Frontend + Backend)
 
+---
 
 ## 🏗️ Tech Stack
 
@@ -99,13 +100,17 @@ JWT_SECRET=your_secret_key
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%"/>
   <img src="screenshots/login.png" width="45%"/>
+  <img src="screenshots/dashboard.png" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="45%"/>
   <img src="screenshots/upload.png" width="45%"/>
+  <img src="screenshots/admin.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/validation.png" width="45%"/>
 </p>
 
 ---
