@@ -125,7 +125,7 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-**Kavinila**
+**Kavinila A**
 
 ---
 
